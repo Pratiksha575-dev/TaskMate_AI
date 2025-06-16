@@ -1,79 +1,103 @@
 # 🧠 TaskMate_AI – Smart Task & Event Scheduler
-TaskMate_AI is your intelligent companion for conquering chaos! This smart mobile app helps you effortlessly organize your life — add, update, or delete tasks and events, get perfectly timed reminders, and chat with an NLP-powered assistant that actually understands you. Want to know what’s on your plate today? Just ask. Curious about events next Tuesday? Your chatbot's got you covered. With TaskMate, scheduling isn't just productive — it's interactive, intuitive, and a little bit magical.
 
-🚀 Features
+**TaskMate_AI** is your intelligent companion for conquering chaos!  
+This smart mobile app helps you effortlessly organize your life — add, update, or delete tasks and events, get perfectly timed reminders, and chat with an NLP-powered assistant that *actually understands you*. Want to know what’s on your plate today? Just ask. Curious about events next Tuesday? Your chatbot's got you covered.
 
-📅 Add, update, and delete personal/work tasks and events
+With TaskMate, scheduling isn't just productive — it's interactive, intuitive, and a little bit magical. ✨
 
-🔔 Get reminder notifications at the scheduled time
+---
 
-🤖 NLP chatbot to answer queries like “What are my tasks today?”
+## 🚀 Features
 
-🗣️ Voice-based interaction — speak your queries, get spoken replies
+- 📅 **Task & Event Management** – Add, update, and delete personal or work-related tasks and events  
+- 🔔 **Smart Reminders** – Get notification alerts at scheduled times  
+- 🤖 **NLP Chatbot Integration** – Ask questions like “What are my tasks today?” and get accurate responses  
+- 🗣️ **Voice-Based Interaction** – Speak your queries and hear the answers back  
+- 🗃️ **Categorization** – Organize your tasks by personal, family, or team  
+- 🌗 **Status Separation** – View active and expired events separately  
+- 💫 **Flutter UI** – Clean, animated, and intuitive design for a smooth user experience
 
-🗃️ Categorize tasks by personal, family, or team
-
-🌗 Separate views for active and expired events
-
-💫 Visually rich UI built with Flutter animations
+---
 
 ## 🛠️ Tech Stack
 
 **Frontend:**
 - Flutter
-- Firebase (for Firestore DB and Local Notifications)
+- Firebase (Firestore for DB, Local Notifications)
 
 **Backend:**
 - Python (Flask)
-- Dialogflow (NLP chatbot)
-- Hosted on Render
+- Dialogflow (NLP Chatbot)
+- Hosted on [Render](https://render.com)
 
 ---
 
 ## 📂 Folder Structure
-taskmate-ai/
-├── flutter_app/ # Flutter frontend
-│ ├── lib/
-│ ├── android/
-│ └── ...
-│
-├── backend/ # Flask + Dialogflow backend
-│ ├── app.py
-│ ├── requirements.txt
-│ └── .gitignore 
+
+**taskmate-ai/**
+- **flutter_app/**  → Flutter frontend  
+  ├── lib/  
+  ├── android/  
+  ├── ios/  
+  └── ...  
+
+- **backend/**  → Flask + Dialogflow backend  
+  ├── app.py  
+  ├── requirements.txt  
+  └── .gitignore
+
+
 ---
 
 ## 📦 Deployment
 
-- Frontend deployed via Flutter (local/device)
-- Backend deployed on [Render](https://render.com) using `Procfile`
-- Dialogflow integration handled via Flask API
+- 📱 **Frontend:** Run via Flutter on emulator/device  
+- 🌐 **Backend:** Hosted on [Render](https://render.com) using `Procfile`  
+- 🧠 **Dialogflow:** Integrated with Flask API to handle natural language queries
 
 ---
+
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+### 🏠 Home Screen  
 <img src="screenshots/homescreen.jpg" alt="Home Screen" width="300"/>
 
-### 🤖 Chatbot Interaction
+---
+
+### 🤖 Chatbot Interaction  
 <img src="screenshots/Chatbot.jpg" alt="Chatbot" width="300"/>
 
-<h3>➕ Add Event Flow</h3>
-<p float="left">
-  <img src="screenshots/AddEvent1.jpg" alt="Add Event 1" width="300"/>
-  <img src="screenshots/AddEvent2.jpg" alt="Add Event 2" width="300"/>
-</p>
+---
 
-<h3>✅ To-Do List (Tasks)</h3>
-<p float="left">
-  <img src="screenshots/Todolist.jpg" alt="ToDo List" width="300"/>
-  <img src="screenshots/addtask.jpg" alt="Add Task" width="300"/>
-  <img src="screenshots/Selftasks.jpg" alt="Self Tasks" width="300"/>
-</p>
+### ➕ Add Event Flow  
+<table>
+  <tr>
+    <td><img src="screenshots/AddEvent1.jpg" alt="Add Event 1" width="300"/></td>
+    <td><img src="screenshots/AddEvent2.jpg" alt="Add Event 2" width="300"/></td>
+  </tr>
+</table>
+
+---
+
+### ✅ To-Do List (Tasks)  
+<table>
+  <tr>
+    <td><img src="screenshots/Todolist.jpg" alt="ToDo List" width="300"/></td>
+    <td><img src="screenshots/addtask.jpg" alt="Add Task" width="300"/></td>
+    <td><img src="screenshots/Selftasks.jpg" alt="Self Tasks" width="300"/></td>
+  </tr>
+</table>
+
 ---
 
 ## 🙋‍♀️ About the Developer
 
-Built with ❤️ by Pratiksha Zodge  
-Third Year Computer Engineering Student  
+Built with ❤️ by **Pratiksha Zodge**  
+🎓 Third Year Computer Engineering Student  
+
 ---
+
+
+
+
+
