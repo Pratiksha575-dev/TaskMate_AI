@@ -58,20 +58,19 @@ taskmate-ai/
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/homescreen.jpg)
+<img src="screenshots/homescreen.jpg" alt="Home Screen" width="300"/>
 
 ### 🤖 Chatbot Interaction
-![Chatbot](screenshots/Chatbot.jpg)
+<img src="screenshots/Chatbot.jpg" alt="Chatbot" width="300"/>
 
 ### ➕ Add Event Flow
-![Add Event 1](screenshots/AddEvent1.jpg)
-![Add Event 2](screenshots/AddEvent2.jpg)
+<img src="screenshots/AddEvent1.jpg" alt="Add Event 1" width="300"/>
+<img src="screenshots/AddEvent2.jpg" alt="Add Event 2" width="300"/>
 
 ### ✅ To-Do List (Tasks)
-![ToDo List](screenshots/Todolist.jpg)
-![Add Task](screenshots/addtask.jpg)
-![Self Tasks](screenshots/Selftasks.jpg)
-
+<img src="screenshots/Todolist.jpg" alt="ToDo List" width="300"/>
+<img src="screenshots/addtask.jpg" alt="Add Task" width="300"/>
+<img src="screenshots/Selftasks.jpg" alt="Self Tasks" width="300"/>
 ---
 
 ## 🙋‍♀️ About the Developer
