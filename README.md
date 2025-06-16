@@ -63,14 +63,18 @@ taskmate-ai/
 ### 🤖 Chatbot Interaction
 <img src="screenshots/Chatbot.jpg" alt="Chatbot" width="300"/>
 
-### ➕ Add Event Flow
-<img src="screenshots/AddEvent1.jpg" alt="Add Event 1" width="300"/>
-<img src="screenshots/AddEvent2.jpg" alt="Add Event 2" width="300"/>
+<h3>➕ Add Event Flow</h3>
+<p float="left">
+  <img src="screenshots/AddEvent1.jpg" alt="Add Event 1" width="300"/>
+  <img src="screenshots/AddEvent2.jpg" alt="Add Event 2" width="300"/>
+</p>
 
-### ✅ To-Do List (Tasks)
-<img src="screenshots/Todolist.jpg" alt="ToDo List" width="300"/>
-<img src="screenshots/addtask.jpg" alt="Add Task" width="300"/>
-<img src="screenshots/Selftasks.jpg" alt="Self Tasks" width="300"/>
+<h3>✅ To-Do List (Tasks)</h3>
+<p float="left">
+  <img src="screenshots/Todolist.jpg" alt="ToDo List" width="300"/>
+  <img src="screenshots/addtask.jpg" alt="Add Task" width="300"/>
+  <img src="screenshots/Selftasks.jpg" alt="Self Tasks" width="300"/>
+</p>
 ---
 
 ## 🙋‍♀️ About the Developer
