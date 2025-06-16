@@ -55,3 +55,27 @@ taskmate-ai/
 - Always keep secret keys out of version control!
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](screenshots/homescreen.jpg)
+
+### 🤖 Chatbot Interaction
+![Chatbot](screenshots/Chatbot.jpg)
+
+### ➕ Add Event Flow
+![Add Event 1](screenshots/AddEvent1.jpg)
+![Add Event 2](screenshots/AddEvent2.jpg)
+
+### ✅ To-Do List (Tasks)
+![ToDo List](screenshots/Todolist.jpg)
+![Add Task](screenshots/addtask.jpg)
+![Self Tasks](screenshots/Selftasks.jpg)
+
+---
+
+## 🙋‍♀️ About the Developer
+
+Built with ❤️ by Pratiksha Zodge  
+Third Year Computer Engineering Student  
+---
