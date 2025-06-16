@@ -2,6 +2,7 @@
 TaskMate_AI is your intelligent companion for conquering chaos! This smart mobile app helps you effortlessly organize your life — add, update, or delete tasks and events, get perfectly timed reminders, and chat with an NLP-powered assistant that actually understands you. Want to know what’s on your plate today? Just ask. Curious about events next Tuesday? Your chatbot's got you covered. With TaskMate, scheduling isn't just productive — it's interactive, intuitive, and a little bit magical.
 
 🚀 Features
+
 📅 Add, update, and delete personal/work tasks and events
 
 🔔 Get reminder notifications at the scheduled time
