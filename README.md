@@ -1,19 +1,20 @@
-# 🧠 TaskMate – Smart Task & Event Scheduler
+# 🧠 TaskMate_AI – Smart Task & Event Scheduler
+TaskMate_AI is your intelligent companion for conquering chaos! This smart mobile app helps you effortlessly organize your life — add, update, or delete tasks and events, get perfectly timed reminders, and chat with an NLP-powered assistant that actually understands you. Want to know what’s on your plate today? Just ask. Curious about events next Tuesday? Your chatbot's got you covered. With TaskMate, scheduling isn't just productive — it's interactive, intuitive, and a little bit magical.
 
-TaskMate is a personalized task and event scheduling mobile app that blends natural language interaction with powerful reminders. Built with Flutter and Flask, it uses Dialogflow to let users manage tasks just by chatting.
+🚀 Features
+📅 Add, update, and delete personal/work tasks and events
 
----
+🔔 Get reminder notifications at the scheduled time
 
-## 🚀 Features
-- 📅 Add, edit, and delete personal/work tasks and events
-- 🧠 Chatbot interface powered by Dialogflow + Flask backend
-- 🗣️ Voice-based interaction – speak your queries, and hear responses back!
-- 🔔 Smart notifications and reminders
-- 🗃️ Task categories: personal, family, team
-- 🌙 Separate sections for active and expired events
-- 📊 User-friendly interface with Flutter animations
+🤖 NLP chatbot to answer queries like “What are my tasks today?”
 
----
+🗣️ Voice-based interaction — speak your queries, get spoken replies
+
+🗃️ Categorize tasks by personal, family, or team
+
+🌗 Separate views for active and expired events
+
+💫 Visually rich UI built with Flutter animations
 
 ## 🛠️ Tech Stack
 
@@ -46,13 +47,6 @@ taskmate-ai/
 - Frontend deployed via Flutter (local/device)
 - Backend deployed on [Render](https://render.com) using `Procfile`
 - Dialogflow integration handled via Flask API
-
----
-
-## 🔒 Security
-
-- 🔑 `dialogflow-key.json` is excluded using `.gitignore` for safety.
-- Always keep secret keys out of version control!
 
 ---
 ## 📸 Screenshots
